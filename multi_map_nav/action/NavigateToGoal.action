@@ -1,0 +1,10 @@
+# action/NavigateToGoal.action
+float64 target_x
+float64 target_y
+string target_map
+---
+bool success
+string message
+---
+string feedback_msg
+

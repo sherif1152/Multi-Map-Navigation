@@ -1,0 +1,6 @@
+<launch>
+  <node pkg="multi_map_nav" type="navigation_server" name="navigation_server" output="screen">
+    <param name="wormhole_db_path" value="$(find multi_map_nav)/database/wormholes.db" />
+    <param name="map_folder" value="$(find multi_map_nav)/maps" />
+  </node>
+</launch>
