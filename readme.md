@@ -1,7 +1,7 @@
 # 🗺️Multi-Map Navigation System
 
 ### 🎥 Demo
-![alt text](multi_map_nav/multi.gif)
+<video controls src="multi_map_nav/multi_map.mp4" title="Title"></video>
 ## Overview
 
 This project implements a multi-map navigation system where a robot can navigate between different mapped rooms. Each room is mapped in separate sessions, and a "wormhole" mechanism allows the robot to switch between maps. The system includes:
