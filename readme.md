@@ -4,7 +4,7 @@
 
 <video controls src="multi_map_nav/Multi-Map-Navigation.mp4" title="Title"></video>
 
-[![شاهد الفيديو](multi_map_nav/multi_map.png)](./multi_map_nav/Multi-Map-Navigation.mp4)
+[![demo](multi_map_nav/multi_map.png)](./multi_map_nav/Multi-Map-Navigation.mp4)
 
 
 ## Overview
