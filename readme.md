@@ -2,9 +2,7 @@
 
 ### 🎥 Demo
 
-<video controls src="multi_map_nav/Multi-Map-Navigation.mp4" title="Title"></video>
-
-[![demo](multi_map_nav/multi_map.png)](./multi_map_nav/Multi-Map-Navigation.mp4)
+<video src="multi_map_nav/Multi-Map-Navigation.mp4" title="Title"></video>
 
 
 ## Overview
