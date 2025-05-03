@@ -4,13 +4,9 @@
 
 <div style="text-align: center;">
     <a href="https://youtu.be/1Ldctfw5sec">
-      <img src="https://img.youtube.com/vi/1Ldctfw5sec/0.jpg" alt="Watch the demo on YouTube" width="800" height="450">
+      <img src="multi_map_nav/multi_map.png" alt="Watch the demo on YouTube" width="800" height="450">
      </a>     
 </div>
-
-
-
-
 
 
 ## Overview
