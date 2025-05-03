@@ -3,17 +3,12 @@
 ### 🎥 Demo
 
 <div style="text-align: center;">
-  <div style="position: relative; display: inline-block;">
-    <!-- فيديو اليوتيوب كصورة -->
     <a href="https://youtu.be/1Ldctfw5sec">
-      <img src="https://img.youtube.com/vi/1Ldctfw5sec/0.jpg" alt="Watch the demo on YouTube" width="800" height="450" style="border: 2px solid #FF0000; border-radius: 5px; box-shadow: 1px 1px 4px rgba(0,0,0,0.2);">
-    </a>
-    <!-- لوجو يوتيوب في النص بالظبط -->
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg"
-         alt="YouTube Logo"
-         style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 120px; opacity: 0.9; pointer-events: none;">
-  </div>
+      <img src="https://img.youtube.com/vi/1Ldctfw5sec/0.jpg" alt="Watch the demo on YouTube" width="800" height="450">
+     </a>     
 </div>
+
+
 
 
 
